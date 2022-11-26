@@ -18,12 +18,14 @@
     grid-column: span 2;
     height: 100%;
     background-color: #245c86;
+    background-color: #999999;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
     background-color: #122d42;
+    background-color: #424a50;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -135,4 +137,5 @@
 .awards-desc {
     font-size: 16px;
     padding-left: 5px;
+}
 }
