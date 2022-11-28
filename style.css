@@ -17,21 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-<<<<<<< HEAD
-    background-color: #999999;
-=======
     background-color: #245c86;
->>>>>>> d1b74fa11b5d1ef59d952fe1e7e46e0ca8a86ee9
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-<<<<<<< HEAD
-    background-color: #424a50;
-=======
     background-color: #122d42;
->>>>>>> d1b74fa11b5d1ef59d952fe1e7e46e0ca8a86ee9
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -108,9 +100,6 @@
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
-<<<<<<< HEAD
-}
-=======
 }
 
 .experience-contents,
@@ -147,4 +136,3 @@
     font-size: 16px;
     padding-left: 5px;
 }
->>>>>>> d1b74fa11b5d1ef59d952fe1e7e46e0ca8a86ee9
